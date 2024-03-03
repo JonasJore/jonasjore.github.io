@@ -10,6 +10,7 @@ function App() {
         <h2>Get in touch with me</h2>
         <span>email: </span><a href="mailto:jonas.jore@gmail.com">jonas.jore@gmail.com</a>
         <p>tlf: +47 95 01 515</p>
+        <span>Github: </span><a href="https://www.github.com/jonasjore">@JonasJore</a>
       </section>
     </>
   )
